@@ -20,8 +20,8 @@ Selected Publications ([all](https://scholar.google.com/citations?hl=en&user=-es
 **2024**
 * How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?   
 **Yang Luo**, Zangwei Zheng, Zirui Zhu, Yang You.      
-_Empirical Methods in Natural Language Processing (**EMNLP**)_  
-| [paper](https://arxiv.org/abs/2404.12866) | 
+_The 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)_  
+| [paper](https://arxiv.org/abs/2404.12866) | [code](https://github.com/NUS-HPC-AI-Lab/Multimodal-ICL-Retriever) |
 
 * HARDer-Net: Hardness-Guided Discrimination Network for 3D Early Activity Prediction   
 Tianjiao Li<sup>\*</sup>, **Yang Luo**<sup>\*</sup>, Wei Zhang, Lingyu Duan, Jun Liu. (\* indicates **equal contribution**)                                                                        
@@ -31,8 +31,8 @@ _IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**)_
 **2023**
 * CAME: Confidence-guided Adaptive Memory Efficient Optimization       
 **Yang Luo**, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You.       
-_Annual Meeting of the Association for Computational Linguistics (**ACL**)_   
-_**Outstanding Paper Award**_   
+_The 61th Annual Meeting of the Association for Computational Linguistics (**ACL**)_   
+_**Outstanding Paper Award**_ 🏆   
 | [paper](https://arxiv.org/abs/2307.02047) | [code](https://github.com/yangluo7/CAME/tree/master) | [blog](https://zhengzangw.github.io/blogs/came/) |
 
 Teaching
