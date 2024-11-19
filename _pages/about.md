@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Ph.D. student in computer science at National University of Singapore. I am grateful to be advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/), where I also completed my master’s studies. Previously, I obtained my bachelor’s degree in Computer Science from Wuhan University supervised by [Prof. Tieyun Qian](https://www.aminer.cn/profile/tieyun-qian/53f47bdfdabfaee4dc89fe30).
+I am a second-year Ph.D. student in computer science at National University of Singapore. I am grateful to be advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/), where I also completed my master’s studies. Previously, I obtained my bachelor’s degree in Software Engineering from Wuhan University supervised by [Prof. Tieyun Qian](https://www.aminer.cn/profile/tieyun-qian/53f47bdfdabfaee4dc89fe30).
 
 I'm seeking a **summer research internship for 2025** and would welcome any information about available opportunities.
 
