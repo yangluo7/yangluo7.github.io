@@ -19,7 +19,7 @@ Selected Publications ([all](https://scholar.google.com/citations?hl=en&user=-es
 ------
 **2025**
 * Enhance-A-Video: Better Generated Video for Free  
-**Yang Luo**, Xuanlei Zhao, Mengzhao Chen, Kaipeng Zhang, Wenqi Shao, Kai Wang, Zhangyang Wang, Yang You.
+**Yang Luo**, Xuanlei Zhao, Mengzhao Chen, Kaipeng Zhang, Wenqi Shao, Kai Wang, Zhangyang Wang, Yang You.  
 | [paper](https://arxiv.org/abs/2502.07508) | [code](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video) | [blog](https://oahzxl.github.io/Enhance_A_Video/) |
 
 **2024**
