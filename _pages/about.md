@@ -42,7 +42,8 @@ _IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**)_
 * CAME: Confidence-guided Adaptive Memory Efficient Optimization       
 **Yang Luo**, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You.       
 _The 61th Annual Meeting of the Association for Computational Linguistics (**ACL**)_   
-_**Outstanding Paper Award**_ 🏆   
+_**Outstanding Paper Award**_ 🏆  
+_Used in the pre-training of [Pixart-$\Sigma$](https://pixart-alpha.github.io/PixArt-sigma-project/) and [SANA-1.5](https://nvlabs.github.io/Sana/Sana-1.5/)_  
 | [paper](https://arxiv.org/abs/2307.02047) | [code](https://github.com/yangluo7/CAME/tree/master) | [blog](https://zhengzangw.github.io/blogs/came/) |
 
 Teaching
