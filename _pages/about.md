@@ -22,11 +22,11 @@ Selected Publications ([all](https://scholar.google.com/citations?hl=en&user=-es
 **Yang Luo**, Xuanlei Zhao, Mengzhao Chen, Kaipeng Zhang, Wenqi Shao, Kai Wang, Zhangyang Wang, Yang You.  
 | [paper](https://arxiv.org/abs/2502.07508) | [code](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video) | [blog](https://oahzxl.github.io/Enhance_A_Video/) |
 
-**2024**
-
 * MERIT: Maximum-normalized Element-wise Ratio for Language Model Large-batch Training   
 **Yang Luo**, Zangwei Zheng, Ziheng_Qin, Zirui Zhu, Yong Liu, Yang You.  
-_Preprint_
+_International Conference on Machine Learning (**ICML**)_
+
+**2024**
 
 * How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?   
 **Yang Luo**, Zangwei Zheng, Zirui Zhu, Yang You.      
