@@ -23,8 +23,9 @@ Selected Publications ([all](https://scholar.google.com/citations?hl=en&user=-es
 | [paper](https://arxiv.org/abs/2502.07508) | [code](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video) | [blog](https://oahzxl.github.io/Enhance_A_Video/) |
 
 * MERIT: Maximum-normalized Element-wise Ratio for Language Model Large-batch Training   
-**Yang Luo**, Zangwei Zheng, Ziheng_Qin, Zirui Zhu, Yong Liu, Yang You.  
+**Yang Luo**, Zangwei Zheng, Ziheng Qin, Zirui Zhu, Yong Liu, Yang You.  
 _International Conference on Machine Learning (**ICML**)_
+| [paper](https://openreview.net/forum?id=NSxKNNFni0) | [code](https://github.com/NUS-HPC-AI-Lab/MERIT) |
 
 **2024**
 
