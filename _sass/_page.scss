@@ -60,15 +60,20 @@
           margin-top: -10em;
       }
     }
-    h1 {
-      margin-top: 1em;
-      padding-bottom: 0.5em;
-      border-bottom: 1px solid $border-color;
-    }
-  
-    p, li, dl {
-      font-size: 1em;
-    }
+  h1 {
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+    font-size: 1.3em;  /* Reduced h1 size */
+  }
+
+  h2 {
+    font-size: 1.1em;  /* Reduced h2 size */
+  }
+
+  p, li, dl {
+    font-size: 0.9em;  /* Reduced from 1em to 0.9em */
+  }
   
     /* paragraph indents */
     p {
@@ -111,12 +116,79 @@
       font-size: $type-size-6;
     }
   
-    /* blockquote citations */
-    blockquote + .small {
-      margin-top: -1.5em;
-      padding-left: 1.25rem;
+  /* blockquote citations */
+  blockquote + .small {
+    margin-top: -1.5em;
+    padding-left: 1.25rem;
+  }
+
+  /* Custom styles for academic homepage */
+  ul li {
+    margin-bottom: 1.2em;
+    line-height: 1.6;
+  }
+
+  /* Reduce spacing for News section (first ul after h1) */
+  h1 + ul li {
+    margin-bottom: 0.5em;
+    line-height: 1.5;
+  }
+
+  ul li strong {
+    font-size: 1.05em;
+  }
+
+  /* Conference tag styling */
+  code.language-plaintext.highlighter-rouge {
+    background-color: #05a3ad;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-right: 8px;
+  }
+
+  /* GitHub star badge alignment */
+  ul li img[alt="sym"] {
+    vertical-align: middle;
+    margin-left: 5px;
+  }
+
+  /* Author underline styling */
+  u {
+    text-decoration: underline;
+    text-decoration-color: #52adc8;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
+  }
+
+  /* Horizontal rule styling */
+  hr {
+    margin: 2em 0;
+    border: 0;
+    border-top: 1px solid #e5e5e5;
+  }
+
+  /* Links in publications */
+  ul li a {
+    color: #52adc8;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+
+    &:hover {
+      color: #2980b9;
+      border-bottom-color: #2980b9;
     }
   }
+
+  /* Equal contribution superscript */
+  sup {
+    font-size: 0.7em;
+    line-height: 0;
+  }
+}
   
   .page__hero {
     position: relative;

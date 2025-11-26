@@ -29,14 +29,14 @@ My current research mainly focuses on  **video generation**, **large-scale deep 
 ## 🎬 Video Generation
 <ul>
   <li>
-    <strong>Enhance-A-Video: Better Generated Video for Free</strong>
+    <strong>V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models</strong>
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2511.16668"> [paper]</a>
         <a href="https://github.com/yangluo7/V-ReasonBench"> [code]</a>
         <a href="https://oahzxl.github.io/VReasonBench/"> [blog]</a>
     </div>
     <img src='https://img.shields.io/github/stars/yangluo7/V-ReasonBench.svg?style=social&label=Star' alt="sym" height="100%">
-    <div><i><u>Yang Luo</u>, Xuanlei Zhao, Mengzhao Chen, Kaipeng Zhang, Wenqi Shao, Kai Wang, Zhangyang Wang, Yang You</i></div>
+    <div><i><u>Yang Luo</u><b><sup>*</sup></b>, Xuanlei Zhao<b><sup>*</sup></b>, Baijiong Lin<b><sup>*</sup></b>, Lingting Zhu, Liyao Tang, Yuqi Liu, Ying-Cong Chen, Shengju Qian, Xin Wang, Yang You</i></div>
   </li>
   <li>
     <strong>Enhance-A-Video: Better Generated Video for Free</strong>
