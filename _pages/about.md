@@ -16,6 +16,8 @@ I am Yang Luo, a third-year PhD student in Computer Science at National Universi
 My current research mainly focuses on  **video generation**, **large-scale deep learning optimization** and **efficient machine learning**. I'm also eager to discuss intriguing research concepts and open to academic partnerships. If you're interested in collaboration, feel free to reach out via email.
 
 # 🔥 News
+- *2026.07*: Release [Vidu S1](https://huggingface.co/papers/2607.03118), a real-time interactive video generation model, ranked **#1 Paper of the day** on Hugging Face!
+- *2026.05*: Release [AFD](https://arxiv.org/abs/2605.26105) for on-policy distillation of black-box video teachers into autoregressive students!
 - *2025.11*: Release [V-ReasonBench](https://oahzxl.github.io/VReasonBench/) for comprehensive evaluation on video reasoning!
 - *2025.05*: [MERIT](https://openreview.net/forum?id=NSxKNNFni0) accepted by ICML 2025!
 - *2025.02*: Release [Enhance-A-Video](https://oahzxl.github.io/Enhance_A_Video/) for better generated video for free!
@@ -28,6 +30,24 @@ My current research mainly focuses on  **video generation**, **large-scale deep 
 
 ## 🎬 Video Generation
 <ul>
+  <li>
+    <strong>Vidu S1: A Real-Time Interactive Video Generation Model</strong>
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2607.03118"> [paper]</a>
+        <a href="https://github.com/shengshu-ai/Vidu-S1"> [code]</a>
+        <a href="https://www.vidu.com/vidu-stream"> [demo]</a>
+    </div>
+    <img src='https://img.shields.io/github/stars/shengshu-ai/Vidu-S1.svg?style=social&label=Star' alt="sym" height="100%">
+    <div><i>Vidu S1 Team, <u>Yang Luo</u> (Core Contributor)</i></div>
+    <div><strong>#1 Paper of the day</strong> on Hugging Face 🏆</div>
+  </li>
+  <li>
+    <strong>On-Policy Adversarial Flow Distillation for Autoregressive Video Generation</strong>
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2605.26105"> [paper]</a>
+    </div>
+    <div><i><u>Yang Luo</u>, Shengju Qian, Xiaohang Tang, Zirui Zhu, Yong Liu, Xin Wang, Yang You</i></div>
+  </li>
   <li>
     <strong>V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models</strong>
     <div style="display: inline">
