@@ -16,7 +16,7 @@ I am Yang Luo, a third-year PhD student in Computer Science at National Universi
 My current research mainly focuses on  **video generation**, **large-scale deep learning optimization** and **efficient machine learning**. I'm also eager to discuss intriguing research concepts and open to academic partnerships. If you're interested in collaboration, feel free to reach out via email.
 
 # 🔥 News
-- *2026.09*: Release [Vidu S2](https://huggingface.co/papers/2609.11638), a real-time interactive, editable, and spatial video generation model!
+- *2026.09*: Release [Vidu S2](https://huggingface.co/papers/2609.11638), a real-time interactive, editable, and spatial video generation model, ranked **#1 Paper of the day** on Hugging Face 🏆!
 - *2026.07*: Release [Vidu S1](https://huggingface.co/papers/2607.03118), a real-time interactive video generation model, ranked **#1 Paper of the day** on Hugging Face!
 - *2026.05*: Release [AFD](https://arxiv.org/abs/2605.26105) for on-policy distillation of black-box video teachers into autoregressive students!
 - *2025.11*: Release [V-ReasonBench](https://oahzxl.github.io/VReasonBench/) for comprehensive evaluation on video reasoning!
@@ -38,6 +38,7 @@ My current research mainly focuses on  **video generation**, **large-scale deep 
         <a href="https://www.vidu.com/vidu-stream"> [demo]</a>
     </div>
     <div><i>Vidu S2 Team, <u>Yang Luo</u> (Co-author)</i></div>
+    <div><strong>#1 Paper of the day</strong> on Hugging Face 🏆</div>
   </li>
   <li>
     <strong>Vidu S1: A Real-Time Interactive Video Generation Model</strong>
